@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RS2026
 =======
 # EXERCISE for Remote Sensing Course
