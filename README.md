@@ -1,5 +1,3 @@
-# RS2026
-=======
 # EXERCISE for Remote Sensing Course
 
 This repository contains the exercices for the EPFL Remote Sensing Course.
