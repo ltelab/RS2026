@@ -4,7 +4,8 @@ This repository contains the exercices for the EPFL Remote Sensing Course. There
 1. On EPFL's virtual machines, available in the exercise classroom;
 2. On your personal laptops;
 3. Via a Noto link.
-We recommend using options 1 or 2. Option 3 is slightly quicker and easier, since all the environment setup is already done, but you lose a valuable opportunity to train these steps and you may encounter issues in saving your work.
+
+We recommend using options 1 or 2 for pedagogic purposes (see section 3 for more details on why).
 
 ## 1. Instructions for using EPFL's VM
 Please select the `ENAC-SSIE-Ubuntu-20-04` Virtual Desktop Infrastructure (VDI) and then follow these steps:
@@ -74,6 +75,13 @@ python -m ipykernel install --user --name=lte
 
 6. To execute correctly the Jupyter Notebook, in the top menu bar select `Kernel` >  `Change Kernel... ` and switch the kernel from `Python 3 (ipykernel)` to `lte`.   
 
+Note that the installation of the dependencies on your laptop might cause conflicts; the latest version of the required packages can be installed using the following command:
+
+```sh
+conda install numpy pandas xarray dask rasterio rioxarray scikit-learn matplotlib-base seaborn colorcet pywavelets pillow jupyter
+```
+
+In case you encounter such issues and cannot fix them, please contact the TA team.
 
 And now ... happy coding :-)
 
@@ -85,14 +93,6 @@ To run the exercise, you can also use **noto.epfl.ch** JuypterLab service (more 
 
 2. Once you have access to the EPFL Noto platform, click on the `Exercise_6.ipynb` to start the notebook.
 
-
 ----------------
 
-Note that the installation of the dependencies on your laptop might cause conflicts; in case you encounter such issues and cannot fix them, please contact the TA team.
-
-The latest version of the required packages can be installed using the following command:
-
-```sh
-conda install numpy pandas xarray dask rasterio rioxarray scikit-learn matplotlib-base seaborn colorcet pywavelets pillow jupyter
-```
 >>>>>>> bd4c3c1 (Update README.md)
