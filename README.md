@@ -29,7 +29,7 @@ python -m ipykernel install --user --name=lte
    And now ... happy coding :-)
 
 
-## Instructions for using yout personal laptop
+## Instructions for using your own computer
 
 Alternatively, you can clone the [RS2026 repository](https://github.com/ltelab/RS202) on your laptop and install the required environment using conda/mamba or micromamba:  
 
