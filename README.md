@@ -1,8 +1,8 @@
 # EXERCISE for Remote Sensing Course
 
-This repository contains the exercices for the EPFL Remote Sensing Course.
+This repository contains the exercices for the EPFL Remote Sensing Course. The exercises can be executed directly on the EPFL's virtual machines, available in the exercise classroom, or directly on your personal laptops. 
 
-The exercises can be executed directly on the EPFL VMware Horizon platform. 
+## Instructions for using EPFL's VM
 Please select the `ENAC-SSIE-Ubuntu-20-04` Virtual Desktop Infrastructure (VDI) and then follow these steps:
 
 1. [Download the RS2026 GitHub repository](https://github.com/ltelab/RS2026/archive/refs/heads/main.zip)
@@ -29,7 +29,7 @@ python -m ipykernel install --user --name=lte
    And now ... happy coding :-)
 
 
-----------------
+## Instructions for using yout personal laptop
 
 Alternatively, you can clone the [RS2026 repository](https://github.com/ltelab/RS202) on your laptop and install the required environment using conda/mamba or micromamba:  
 
@@ -65,10 +65,12 @@ python -m ipykernel install --user --name=lte
 ```
 
 5. Launch the Jupyter Notebook interface with `jupyter notebook` and open the
-   `Exercise_6.ipynb` or `Exercise_7.ipynb` file within the `RS2026` directory.
+   `Exercise_6.ipynb` or `Exercise_7.ipynb` file within the `RS2026` directory. 
 
 6. To execute correctly the Jupyter Notebook, in the top menu bar select `Kernel` >  `Change Kernel... ` and switch the kernel from `Python 3 (ipykernel)` to `lte`.   
-   And now ... happy coding :-)
+
+
+And now ... happy coding :-)
 
 
 ----------------
