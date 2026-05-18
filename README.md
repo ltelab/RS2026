@@ -94,5 +94,3 @@ To run the exercise, you can also use **noto.epfl.ch** JuypterLab service (more 
 2. Once you have access to the EPFL Noto platform, click on the `Exercise_6.ipynb` to start the notebook.
 
 ----------------
-
->>>>>>> bd4c3c1 (Update README.md)
