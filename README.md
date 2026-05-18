@@ -32,9 +32,6 @@ python -m ipykernel install --user --name=lte
 
 6. To execute correctly the Jupyter Notebook, in the top menu bar select `Kernel` >  `Change Kernel... ` and switch the kernel from `Python 3 (ipykernel)` to `lte`.   
 
-And now ... happy coding :-)
-
-
 ## 2. Instructions for using your own computer
 
 Alternatively, you can clone the [RS2026 repository](https://github.com/ltelab/RS202) on your laptop and install the required environment using conda/mamba or micromamba:  
@@ -85,7 +82,6 @@ conda install numpy pandas xarray dask rasterio rioxarray scikit-learn matplotli
 
 In case you encounter such issues and cannot fix them, please contact the TA team.
 
-And now ... happy coding :-)
 
 ## 3. Instructions for using Noto
 
@@ -97,3 +93,4 @@ To run the exercise, you can also use **noto.epfl.ch** JuypterLab service (more 
 2. Once you have access to the EPFL Noto platform, click on the `Exercise_6.ipynb` to start the notebook.
 
 ----------------
+And now ... happy coding :-)
