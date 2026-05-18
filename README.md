@@ -91,7 +91,8 @@ And now ... happy coding :-)
 
 To run the exercise, you can also use **noto.epfl.ch** JuypterLab service (more details [here](https://www.epfl.ch/education/educational-initiatives/cede/teaching-interactively/jupyter-notebooks-for-education/one-click-access-to-jupyter-notebooks-online-with-noto/)). This allows you to run the code directly without having to do any environment setup. We do not recommend this option, as we think that setting up an environment is a good thing to learn; but we provide this option as a backup if you encounter issues with option 1 and 2.
 
-1. Click [here](https://noto.epfl.ch/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fltelab%2FRS2026&urlpath=lab%2Ftree%2FRS2026%2Fexercise_6%2FExercise_6.ipynb&branch=main&depth=1) to access the Noto environement.
+1. Click on the following links to access the Noto environements:
+   -  [Exercise 6](https://noto.epfl.ch/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fltelab%2FRS2026&urlpath=lab%2Ftree%2FRS2026%2Fexercise_6%2FExercise_6.ipynb&branch=main&depth=1)
 
 2. Once you have access to the EPFL Noto platform, click on the `Exercise_6.ipynb` to start the notebook.
 
