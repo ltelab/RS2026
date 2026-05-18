@@ -75,6 +75,8 @@ python -m ipykernel install --user --name=lte
 
 6. To execute correctly the Jupyter Notebook, in the top menu bar select `Kernel` >  `Change Kernel... ` and switch the kernel from `Python 3 (ipykernel)` to `lte`.   
 
+If you want to use the VScode interface for executing the Jupyter notebook, execute steps 1 to 5, then install Python and Jupyter extensions in VScode. Navigate to the repository using VScode's terminal, then open the .ipynb files. Click the kernel selector on the top-right corner of the notebook and select the `lte` environment. 
+
 Note that the installation of the dependencies on your laptop might cause conflicts; the latest version of the required packages can be installed using the following command:
 
 ```sh
